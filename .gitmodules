@@ -1,0 +1,30 @@
+[submodule "skills/misc/third-party/mattpocock-skills"]
+	path = skills/misc/third-party/mattpocock-skills
+	url = https://github.com/mattpocock/skills.git
+[submodule "skills/misc/third-party/anthropics-skills"]
+	path = skills/misc/third-party/anthropics-skills
+	url = https://github.com/anthropics/skills.git
+[submodule "skills/misc/third-party/vercel-labs-skills"]
+	path = skills/misc/third-party/vercel-labs-skills
+	url = https://github.com/vercel-labs/skills.git
+[submodule "skills/misc/third-party/emilkowalski-skills"]
+	path = skills/misc/third-party/emilkowalski-skills
+	url = https://github.com/emilkowalski/skills.git
+[submodule "skills/misc/third-party/openai-skills"]
+	path = skills/misc/third-party/openai-skills
+	url = https://github.com/openai/skills.git
+[submodule "skills/misc/third-party/google-skills"]
+	path = skills/misc/third-party/google-skills
+	url = https://github.com/google/skills.git
+[submodule "skills/misc/third-party/minimax-ai-skills"]
+	path = skills/misc/third-party/minimax-ai-skills
+	url = https://github.com/MiniMax-AI/skills.git
+[submodule "skills/misc/third-party/slavingia-skills"]
+	path = skills/misc/third-party/slavingia-skills
+	url = https://github.com/slavingia/skills.git
+[submodule "skills/misc/third-party/huggingface-skills"]
+	path = skills/misc/third-party/huggingface-skills
+	url = https://github.com/huggingface/skills.git
+[submodule "skills/misc/third-party/soundsguyza-superpowers"]
+	path = skills/misc/third-party/soundsguyza-superpowers
+	url = https://github.com/SoundsguyZA/superpowers.git
